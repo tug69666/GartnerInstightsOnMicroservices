@@ -12,5 +12,6 @@ to miniservices is a different situation. Miniservices are similar to microservi
 maintaining a product but other than that, the advantages of miniservices outweigh microservices. Some of the advantages 
 include miniservices being cheaper to maintain, miniservices being able to share its data like libraries and databases 
 while microservices can't really do that and instead owns its data, and communication between microservices have a higher 
-chance for failure compared to miniservices. Miniservices seems like a great in between to microservices that have many 
-services and macroservices that have only one service. 
+chance for failure compared to miniservices because of the amount of services that are involved when it comes to the structure
+of microservices. Miniservices seems like a great in between to microservices that have many services and macroservices that 
+have only one service. 
